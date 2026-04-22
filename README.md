@@ -5,7 +5,7 @@ I build systems that turn messy, real-world data into structured, decision-makin
 
 ---
 
-## 🔧 What I Work On
+## 🔧 What I like to work with
 - LLM-powered systems (RAG, agents, automation)
 - Data pipelines + forecasting models
 - Full-stack AI products
@@ -19,7 +19,7 @@ I build systems that turn messy, real-world data into structured, decision-makin
 - LLM ranking engine for resume-job matching
 - FastAPI + microservice inference
 
-👉 [Live Demo] | [Code]
+👉 [Live Demo](https://job-finder-ajfw57yx2-rohanfozdars-projects.vercel.app/) | [Code](https://github.com/rohanfozdar/job-finder)
 
 ---
 
@@ -27,7 +27,7 @@ I build systems that turn messy, real-world data into structured, decision-makin
 - Multimodal ML pipeline (weather, gas, sentiment)
 - Event-driven spike detection system
 
-👉 [Code]
+👉 [Code]()
 
 ---
 
