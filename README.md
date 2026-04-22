@@ -27,7 +27,7 @@ I build systems that turn messy, real-world data into structured, decision-makin
 - Multimodal ML pipeline (weather, gas, sentiment)
 - Event-driven spike detection system
 
-👉 [Code]()
+👉 [Code]
 
 ---
 
@@ -35,14 +35,15 @@ I build systems that turn messy, real-world data into structured, decision-makin
 - Full-stack financial modeling tool
 - Real-time data + IV surface visualization
 
-👉 [Live] | [Code]
+👉 [Live](https://rohanfozdar.github.io/options-pricer/) | [Code](https://github.com/rohanfozdar/options-pricer)
 
 ---
 
 ## 🧠 Tech Stack
-Python | TypeScript | FastAPI | PyTorch | LangChain | FAISS | SQL
+JavaScript, Python, PowerBI, R, SQL, C++, Excel, Matplotlib, NumPy, Pandas, Java, TensorFlow, Tableau,
+Matlab, PyTorch, FastAPI, LangChain, HuggingFace, Snowflake, NLP
 
 ---
 
 ## 📫 Contact
-Email | LinkedIn | Website
+[Email](rohan.fozdar@gmail.com) | [LinkedIn](https://www.linkedin.com/in/rohan-fozdar/) | [Website](rohanfozdar.com)
