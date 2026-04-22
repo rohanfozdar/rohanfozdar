@@ -1,16 +1,48 @@
-## Hi there 👋
+## Rohan Fozdar
+AI Systems | Quantitative Modeling | Full-Stack Builder
 
-<!--
-**rohanfozdar/rohanfozdar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build systems that turn messy, real-world data into structured, decision-making pipelines.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 What I Work On
+- LLM-powered systems (RAG, agents, automation)
+- Data pipelines + forecasting models
+- Full-stack AI products
+
+---
+
+## 🚀 Featured Projects
+
+### AutoSearch (AI Job Matching Engine)
+- RAG pipeline (FAISS + sentence-transformers)
+- LLM ranking engine for resume-job matching
+- FastAPI + microservice inference
+
+👉 [Live Demo] | [Code]
+
+---
+
+### ERCOT Price Forecaster
+- Multimodal ML pipeline (weather, gas, sentiment)
+- Event-driven spike detection system
+
+👉 [Code]
+
+---
+
+### Options Pricing Engine
+- Full-stack financial modeling tool
+- Real-time data + IV surface visualization
+
+👉 [Live] | [Code]
+
+---
+
+## 🧠 Tech Stack
+Python | TypeScript | FastAPI | PyTorch | LangChain | FAISS | SQL
+
+---
+
+## 📫 Contact
+Email | LinkedIn | Website
